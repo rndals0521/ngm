@@ -14,6 +14,7 @@ This is storage
 
 💻사용 경험 언어
 --
+<div style="display:flex">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=orange" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+</div>
